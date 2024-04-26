@@ -1,0 +1,13 @@
+﻿@model Artist
+<h4>@Model.Name</h4>
+<img src="~/images/artists/@Model.Image" style="width:fit-content;height:400px;object-fit:cover"/>
+<br><br>
+<div>@Model.Birthdate.ToString("yyyy-MM-dd")</div>
+<div>@Model.Music</div>
+
+<div>
+	<a href="@Model.YoutubeChannel" target="_blank">@Model.Name Official</a>
+
+</div>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Go Back</a>

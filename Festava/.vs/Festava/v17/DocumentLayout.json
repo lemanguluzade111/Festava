@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kenan\\Desktop\\Festava\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\areas\\admin\\views\\artists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\artists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\areas\\admin\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\areas\\admin\\views\\artists\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\artists\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\areas\\admin\\views\\artists\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\artists\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\areas\\admin\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Artists\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Artists\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Artists\\Detail.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Artists\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:50:21.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Festava\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Models\\Artist.cs",
+              "RelativeToolTip": "Festava\\Models\\Artist.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:38:50.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Artists\\Update.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Artists\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Artists\\Update.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Artists\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:26:09.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Artists\\Create.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Artists\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Artists\\Create.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Artists\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T06:16:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Artists\\Index.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Artists\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Artists\\Index.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Artists\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T07:45:27.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Controllers\\ArtistsController.cs",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Controllers\\ArtistsController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:25:55.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAFsBAAAAAAAAAADgv2UBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T07:01:25.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Festava.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Festava.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\admin\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\admin\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\js\\menu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\admin\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\admin\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\admin\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\admin\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\admin\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\css\\templatemo-festava-live.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-festava-live.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\1000_F_621974707_3qSW6SVWV0XTAyoNnHpqSCIfAX593egL.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\1000_F_621974707_3qSW6SVWV0XTAyoNnHpqSCIfAX593egL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\abstral-official-bdlMO9z5yco-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\abstral-official-bdlMO9z5yco-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\istockphoto-994318634-612x612.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\istockphoto-994318634-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\joecalih-UmTZqmMvQcw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\joecalih-UmTZqmMvQcw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\soundtrap-rAT6FJ6wltE-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\soundtrap-rAT6FJ6wltE-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\edward-unsplash-blur.jpg",
+      "PackagePath": "staticwebassets\\images\\edward-unsplash-blur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\festival.jpg",
+      "PackagePath": "staticwebassets\\images\\festival.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\nainoa-shizuru-unsplash-blur.jpg",
+      "PackagePath": "staticwebassets\\images\\nainoa-shizuru-unsplash-blur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\nicholas-green-unsplash-blur.jpg",
+      "PackagePath": "staticwebassets\\images\\nicholas-green-unsplash-blur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\images\\pexels-alexander-suhorucov-6457579.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-alexander-suhorucov-6457579.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\js\\click-scroll.js",
+      "PackagePath": "staticwebassets\\js\\click-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\video\\pexels-2022395.mp4",
+      "PackagePath": "staticwebassets\\video\\pexels-2022395.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\wwwroot\\video\\videofes.gif",
+      "PackagePath": "staticwebassets\\video\\videofes.gif"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Festava.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Festava.props",
+      "PackagePath": "build\\Festava.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Festava.props",
+      "PackagePath": "buildMultiTargeting\\Festava.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Festava.props",
+      "PackagePath": "buildTransitive\\Festava.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

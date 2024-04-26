@@ -1,0 +1,63 @@
+﻿@* ARTISTS Create *@
+
+@model Artist 
+
+<div class="row">
+    <div class="col-8">
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">Create Artist</h5>
+            </div>
+            <div class="card-body">
+
+                <form method="post">
+
+                   
+                        @* IMAGE QALSIN iformfile ucun *@
+                    <div class="mb-3 form-group">
+                        <label asp-for="Image" class="form-label"></label>
+                        <textarea asp-for="Image" class="form-control"></textarea>
+                        <span asp-validation-for="Image" class="text-danger"></span>
+                    </div> 
+                    
+                   
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Name" class="form-label"></label>
+                        <textarea asp-for="Name" class="form-control"></textarea>
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Birthdate" class="form-label"></label>
+                        <textarea asp-for="Birthdate" class="form-control"></textarea>
+                        <span asp-validation-for="Birthdate" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Music" class="form-label"></label>
+                        <textarea asp-for="Music" class="form-control"></textarea>
+                        <span asp-validation-for="Music" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="YoutubeChannel" class="form-label"></label>
+                        <textarea asp-for="YoutubeChannel" class="form-control"></textarea>
+                        <span asp-validation-for="YoutubeChannel" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <a asp-action="Index" class="btn btn-secondary">Go Back</a>
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
