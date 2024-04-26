@@ -1,7 +1,10 @@
-﻿using Festava.DAL;
+﻿using System.Drawing;
+using Festava.DAL;
+using Festava.Helpers;
 using Festava.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using NuGet.Protocol;
 
 namespace Festava.Areas.Admin.Controllers
 {
@@ -9,9 +12,12 @@ namespace Festava.Areas.Admin.Controllers
     public class ArtistsController : Controller
     {
         private readonly AppDbContext _db;
-        public ArtistsController(AppDbContext db)
+        private readonly IWebHostEnvironment _env;
+        public ArtistsController(AppDbContext db, IWebHostEnvironment env)
         {
             _db = db;
+            _env = env;
+
         }
         public async Task<IActionResult> Index()
         {
@@ -24,6 +30,8 @@ namespace Festava.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
+
 
         public async Task<IActionResult> Create(Artist artist)
         {
@@ -35,6 +43,27 @@ namespace Festava.Areas.Admin.Controllers
             //    ModelState.AddModelError("Name", "This artist is already exist!");
             //    return View();
             //}
+
+            #region SAVE IMAGE 
+            if (artist.Photo == null)
+            {
+                ModelState.AddModelError("Photo", "Image cannot be null");
+                return View();
+            }
+
+            if (!artist.Photo.IsImage())
+            {
+                ModelState.AddModelError("Photo", "Please select image type");
+                return View();
+            }
+            if (artist.Photo.IsOlder1Mb())
+            {
+                ModelState.AddModelError("Photo", "Max 1 Mb");
+                return View();
+            }
+            string folder = Path.Combine(_env.WebRootPath, "images", "artists");
+            artist.Image = await artist.Photo.SaveFileAsync(folder);
+            #endregion
 
 
             await _db.Artists.AddAsync(artist);
@@ -56,6 +85,8 @@ namespace Festava.Areas.Admin.Controllers
             return View(dbArtist);
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
+
         public async Task<IActionResult> Update(int? id, Artist artist)
         {
             if (id == null)
@@ -73,7 +104,35 @@ namespace Festava.Areas.Admin.Controllers
             //    ModelState.AddModelError("Name", "This artist is already exist!");
             //    return View();
             //}
-            dbArtist.Image= artist.Image;
+
+            #region SAVE IMAGE
+            if (artist.Photo != null)
+            {
+                if (!artist.Photo.IsImage())
+                {
+                    ModelState.AddModelError("Photo", "Please select image type");
+                    return View();
+                }
+                if (artist.Photo.IsOlder1Mb())
+                {
+                    ModelState.AddModelError("Photo", "MAX 1 Mb");
+                    return View();
+                }
+                string folder = Path.Combine(_env.WebRootPath, "images", "artists");
+                artist.Image = await artist.Photo.SaveFileAsync(folder);
+                string path = Path.Combine(_env.WebRootPath, folder, dbArtist.Image);
+                if (System.IO.File.Exists(path)) ;
+                {
+                    System.IO.File.Delete(path);
+                }
+                dbArtist.Image = artist.Image;
+            }
+
+           
+          
+        
+            #endregion
+
             dbArtist.Name= artist.Name;
             dbArtist.Birthdate = artist.Birthdate;
             dbArtist.Music = artist.Music;
@@ -98,6 +157,62 @@ namespace Festava.Areas.Admin.Controllers
 
 
 
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+            Artist dbArtist = await _db.Artists.FirstOrDefaultAsync(x => x.Id == id);
+            if (dbArtist == null)
+            {
+                return BadRequest();
+            }
+            return View(dbArtist);
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+
+        [ActionName("Delete")]
+        public async Task<IActionResult> DeletePost(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+            Artist dbArtist=await _db.Artists.FirstOrDefaultAsync(x=>x.Id==id);
+            if(dbArtist == null)
+            {
+                return BadRequest();
+            }
+            dbArtist.IsDeactive = true;
+            await _db.SaveChangesAsync();
+            return RedirectToAction("Index");
+        }
+
+        public async Task<IActionResult> Activity(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+            Artist dbArtist = await _db.Artists.FirstOrDefaultAsync(x => x.Id == id);
+            if (dbArtist == null)
+            {
+                return BadRequest();
+            }
+            if (dbArtist.IsDeactive)
+            {
+                dbArtist.IsDeactive = false;
+            }
+            else
+            {
+                dbArtist.IsDeactive = true;
+            }
+            await _db.SaveChangesAsync();
+            return RedirectToAction("Index");
+
+        }
 
 
 
@@ -111,5 +226,11 @@ namespace Festava.Areas.Admin.Controllers
 
 
 
+
+
+
+
+
+
+        }
     }
-}

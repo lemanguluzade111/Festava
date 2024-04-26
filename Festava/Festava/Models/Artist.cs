@@ -8,12 +8,16 @@ namespace Festava.Models
         public int Id { get; set; }
        
         public string Image { get; set; }
+        [NotMapped]
+        public IFormFile Photo { get; set; }
         [Required]
         public string Name { get; set; }
 		[Column(TypeName = "date")]
-		public DateTime Birthdate { get; set; }
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
+        public DateTime Birthdate { get; set; }
         public string Music { get; set; }
         public string YoutubeChannel { get; set; }
-       
+        public bool IsDeactive { get; set; }
+
     }
 }

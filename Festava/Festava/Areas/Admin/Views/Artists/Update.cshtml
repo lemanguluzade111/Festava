@@ -1,6 +1,9 @@
 ﻿@* ARTIST Update *@
 
+
+
 @model Artist
+
 <div class="row">
     <div class="col-8">
         <div class="card mb-4">
@@ -9,14 +12,15 @@
             </div>
             <div class="card-body">
 
-                <form method="post">
+                <form method="post" enctype="multipart/form-data">
 
 
                     <div class="mb-3 form-group">
-                        <label asp-for="Image" class="form-label"></label>
-                        <textarea asp-for="Image" class="form-control"></textarea>
-                        <span asp-validation-for="Image" class="text-danger"></span>
+                        <label asp-for="Photo" class="form-label"></label>
+                        <input asp-for="Photo" accept="image/*" class="form-control" />
+                        <span asp-validation-for="Photo" class="text-danger"></span>
                     </div>
+
 
 
 
@@ -28,7 +32,7 @@
 
                     <div class="mb-3 form-group">
                         <label asp-for="Birthdate" class="form-label"></label>
-                        <textarea asp-for="Birthdate" class="form-control"></textarea>
+                        <input asp-for="Birthdate" type="date" class="form-control"></input>
                         <span asp-validation-for="Birthdate" class="text-danger"></span>
                     </div>
 
@@ -54,6 +58,7 @@
     </div>
 
 </div>
+
 @section Scripts
 {
     <partial name="_ValidationScriptsPartial" />

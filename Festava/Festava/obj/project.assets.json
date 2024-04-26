@@ -11298,11 +11298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\Festava.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Festava.csproj",
       "projectName": "Festava",
-      "projectPath": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\Festava.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Festava.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\Desktop\\Projects\\Festava\\Festava\\Festava\\Festava\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",

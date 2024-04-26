@@ -10,16 +10,16 @@
             </div>
             <div class="card-body">
 
-                <form method="post">
+                <form method="post" enctype="multipart/form-data">
 
-                   
-                        @* IMAGE QALSIN iformfile ucun *@
+
                     <div class="mb-3 form-group">
-                        <label asp-for="Image" class="form-label"></label>
-                        <textarea asp-for="Image" class="form-control"></textarea>
-                        <span asp-validation-for="Image" class="text-danger"></span>
-                    </div> 
-                    
+                        <label asp-for="Photo" class="form-label"></label>
+                        <input asp-for="Photo" accept="image/*" class="form-control" />
+                        <span asp-validation-for="Photo" class="text-danger"></span>
+                    </div>
+
+
                    
 
                     <div class="mb-3 form-group">

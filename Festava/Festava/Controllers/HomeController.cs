@@ -17,7 +17,7 @@ namespace Festava.Controllers
         {
             _db = db;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             List<Title>  titles;
             List<About> abouts;
@@ -26,10 +26,10 @@ namespace Festava.Controllers
 
             HomeVM homeVM = new HomeVM
             {
-                Titles = _db.Titles.ToList(),
-                About = _db.Abouts.FirstOrDefault(),
-                Artists= _db.Artists.ToList(),
-                Prices=_db.Prices.ToList()
+                Titles = await _db.Titles.ToListAsync(),
+                About = await _db.Abouts.FirstOrDefaultAsync(),
+                Artists= await _db.Artists.Where(x => !x.IsDeactive).ToListAsync(),
+                Prices=await _db.Prices.ToListAsync()
 
 
             };

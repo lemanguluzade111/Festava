@@ -758,3 +758,4 @@ C:\Users\Kenan\Desktop\Projects\Festava\Festava\Festava\Festava\obj\Debug\net7.0
 C:\Users\Kenan\Desktop\Projects\Festava\Festava\Festava\Festava\obj\Debug\net7.0\Festava.pdb
 C:\Users\Kenan\Desktop\Projects\Festava\Festava\Festava\Festava\obj\Debug\net7.0\Festava.genruntimeconfig.cache
 C:\Users\Kenan\Desktop\Projects\Festava\Festava\Festava\Festava\obj\Debug\net7.0\ref\Festava.dll
+C:\Users\Kenan\Desktop\Festava\Festava\Festava\obj\Debug\net7.0\Festava.sourcelink.json
