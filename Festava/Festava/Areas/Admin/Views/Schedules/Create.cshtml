@@ -1,0 +1,66 @@
+﻿@* Schedule Create *@
+
+@model Schedule
+
+<div class="row">
+    <div class="col-8">
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">Create Schedule</h5>
+            </div>
+            <div class="card-body">
+
+                <form method="post" enctype="multipart/form-data">
+
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Day" class="form-label"></label>
+                        <input asp-for="Day" class="form-control"></input>
+                        <span asp-validation-for="Day" class="text-danger"></span>
+                    </div>
+
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Name" class="form-label"></label>
+                        <input asp-for="Name" class="form-control"></input>
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Time" class="form-label"></label>
+                        <input asp-for="Time" class="form-control"></input>
+                        <span asp-validation-for="Time" class="text-danger"></span>
+                    </div>
+
+
+                   
+
+                    
+                    <div class="mb-3 form-group">
+                        <label for="exampleFormControlSelect1">Select Artist</label>
+                        <select class="form-control" name="artistId">
+                            @foreach (Artist artist in ViewBag.Artists)
+                            {
+                                <option value="@artist.Id">@artist.Name</option>
+                            }
+                        </select>
+
+                    </div>
+
+
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <a asp-action="Index" class="btn btn-secondary">Go Back</a>
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -19,5 +19,8 @@ namespace Festava.Models
         public string YoutubeChannel { get; set; }
         public bool IsDeactive { get; set; }
 
+
+        public List<Schedule> Schedules { get; set; }
+
     }
 }

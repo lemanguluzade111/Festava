@@ -8,5 +8,7 @@ namespace Festava.ViewModels
         public About About { get; set; }
         public List<Artist> Artists { get; set; }
         public List<Price> Prices { get; set; }
+        public List<Schedule> Schedules { get; set; }
+
     }
 }

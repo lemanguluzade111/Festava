@@ -2,14 +2,17 @@
 {
     public class Schedule
     {
-        public int Id { get; set; }
+        public int Id { get; set; }   
         public string Day { get; set; }
-        public string FirstEventName { get; set; }
-        public DateTime FirstEventTime { get; set; }
-        public string FirstArtistName { get; set; }
-        public string SecondEventName { get; set;}
-        public DateTime SecondEventTime { get; set; }
-        public string SecondArtistName { get; set; }
+        public string Name { get; set; }
+        public string Time { get; set; } 
+       
+       
+
+
+        public bool IsDeactive { get; set; }
+        public Artist Artist { get; set; }
+        public int ArtistId { get; set; }
 
     }
 }

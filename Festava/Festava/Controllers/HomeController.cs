@@ -23,13 +23,15 @@ namespace Festava.Controllers
             List<About> abouts;
             List<Artist> artists;
             List<Price> prices;
+            List<Schedule> schedules;
 
             HomeVM homeVM = new HomeVM
             {
                 Titles = await _db.Titles.ToListAsync(),
                 About = await _db.Abouts.FirstOrDefaultAsync(),
                 Artists= await _db.Artists.Where(x => !x.IsDeactive).ToListAsync(),
-                Prices=await _db.Prices.ToListAsync()
+                Prices=await _db.Prices.ToListAsync(),
+                Schedules=await _db.Schedules.Include(x=>x.Artist).ToListAsync()
 
 
             };

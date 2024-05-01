@@ -14,6 +14,7 @@ namespace Festava.DAL
         public DbSet<Artist> Artists { get; set; }
         public DbSet<Price> Prices { get; set; }
         public DbSet<Subscribe> Subscribes { get; set; }
+        public DbSet<Schedule> Schedules { get; set; }
 
 
     }
