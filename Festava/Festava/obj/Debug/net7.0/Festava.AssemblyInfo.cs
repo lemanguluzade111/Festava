@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Festava")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef323f09eb8d11e9788f7bd80b6ef99c47e82a38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51853e6076d56794f6386e64adf3b8a31ae0d2aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Festava")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Festava")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

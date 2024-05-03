@@ -401,12 +401,20 @@
       "PackagePath": "staticwebassets\\images\\artists\\1000_F_621974707_3qSW6SVWV0XTAyoNnHpqSCIfAX593egL.jpg"
     },
     {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\146fcbbb-8f07-46f3-9562-cc2175eb6135singer.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\146fcbbb-8f07-46f3-9562-cc2175eb6135singer.jpg"
+    },
+    {
       "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\161881c4-a6c2-4089-8db0-326315ba58a218.jpg",
       "PackagePath": "staticwebassets\\images\\artists\\161881c4-a6c2-4089-8db0-326315ba58a218.jpg"
     },
     {
       "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\65b8889c-8d8e-458a-adaf-42a88e53178895d45b97-7018-4834-8d12-a564956b64cbjoecalih-UmTZqmMvQcw-unsplash.jpg",
       "PackagePath": "staticwebassets\\images\\artists\\65b8889c-8d8e-458a-adaf-42a88e53178895d45b97-7018-4834-8d12-a564956b64cbjoecalih-UmTZqmMvQcw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\744d05a1-3061-45fd-947f-618a9b867858singer.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\744d05a1-3061-45fd-947f-618a9b867858singer.jpg"
     },
     {
       "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\9c2a34b6-78b4-4206-a8d1-73da94c4a05bimages.jpg",
@@ -419,6 +427,18 @@
     {
       "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\abstral-official-bdlMO9z5yco-unsplash.jpg",
       "PackagePath": "staticwebassets\\images\\artists\\abstral-official-bdlMO9z5yco-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\b973267c-ce9c-4207-9d4b-1459bde133afsinger.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\b973267c-ce9c-4207-9d4b-1459bde133afsinger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\c8a4268b-2892-41b2-9833-71ab4603c546singer.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\c8a4268b-2892-41b2-9833-71ab4603c546singer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\d1bcb10a-4c4a-44c2-a5cf-326201952226singer.jpg",
+      "PackagePath": "staticwebassets\\images\\artists\\d1bcb10a-4c4a-44c2-a5cf-326201952226singer.jpg"
     },
     {
       "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\images\\artists\\joecalih-UmTZqmMvQcw-unsplash.jpg",
@@ -467,6 +487,10 @@
     {
       "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\js\\jquery.sticky.js",
       "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\js\\loadMore.js",
+      "PackagePath": "staticwebassets\\js\\loadMore.js"
     },
     {
       "Id": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\wwwroot\\lib\\bootstrap\\LICENSE",

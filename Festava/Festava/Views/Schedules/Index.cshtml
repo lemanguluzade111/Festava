@@ -1,1 +1,39 @@
-﻿
+﻿@model HomeVM
+@* SCHEDULE Index*@
+
+
+<section class="schedule-section section-padding" id="section_4">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white mb-4">Event Schedule for This Week</h2>
+                <div class="table-responsive">
+                    <table class="schedule-table table table-dark">
+                        <thead>
+                            <tr>
+                                <th scope="col">Day</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Time</th>
+                                <th scope="col">Artist</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var schedule in Model.Schedules)
+                            {
+                                <tr>
+                                    <td>@schedule.Day</td>
+
+                                    <td>@schedule.Name</td>
+                                    <td>@schedule.Time</td>
+                                    <td>@schedule.Artist.Name</td>
+
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

@@ -322,6 +322,9 @@ T e m p l a t e M o
 <script src="~/js/click-scroll.js"></script>
 <script src="~/js/custom.js"></script>
 
+@RenderSection("Scripts", false);
+
+
 <script>
         $(document).on("click", "#subBtn", function () {
             $("#errMes").empty()

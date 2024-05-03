@@ -1,0 +1,38 @@
+﻿@model HomeVM
+@foreach (Artist artist in Model.Artists)
+{
+
+    <div class="col-lg-5 col-12" data-id="artist-@artist.Id">
+        <div class="artists-thumb">
+            <div class="artists-image-wrap">
+                <img src="~/images/artists/@artist.Image"
+                     class="artists-image img-fluid">
+            </div>
+
+            <div class="artists-hover">
+                <p>
+                    <strong>Name:</strong>
+                    @artist.Name
+                </p>
+
+                <p>
+                    <strong>Birthdate:</strong>
+                    @artist.Birthdate.ToString("dd.MM.yyyy")
+                </p>
+
+                <p>
+                    <strong>Music:</strong>
+                    @artist.Music
+                </p>
+
+                <hr>
+
+                <p class="mb-0">
+                    <strong>Youtube Channel:</strong>
+                    <a href="@artist.YoutubeChannel" target="_blank">@artist.Name Official</a>
+                </p>
+            </div>
+        </div>
+    </div>
+}
+

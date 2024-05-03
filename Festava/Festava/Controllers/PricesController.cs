@@ -1,12 +1,31 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Festava.DAL;
+using Festava.Models;
+using Festava.ViewModels;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Festava.Controllers
 {
     public class PricesController : Controller
     {
-        public IActionResult Index()
+        private readonly AppDbContext _db;
+        public PricesController(AppDbContext db)
         {
-            return View();
+            _db = db;
+        }
+        public async Task<IActionResult> Index()
+        {
+            List<Price> prices;
+            HomeVM homeVM = new HomeVM
+            {
+
+                Prices = await _db.Prices.ToListAsync()
+
+            };
+
+            return View(homeVM);
+
+
         }
     }
 }
