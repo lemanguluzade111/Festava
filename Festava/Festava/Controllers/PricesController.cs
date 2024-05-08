@@ -27,5 +27,16 @@ namespace Festava.Controllers
 
 
         }
+
+
+
+        [HttpPost]
+        public IActionResult Index(int priceId)
+        {
+            // Logic to handle ticket purchase
+            // You can retrieve the selected price by its ID (priceId) and process the purchase
+
+            return RedirectToAction("Index", "Confirmation"); // Redirect to a confirmation page after purchase
+        }
     }
 }

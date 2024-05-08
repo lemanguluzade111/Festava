@@ -1,0 +1,10 @@
+﻿@* SCHEDULES DETAIL *@
+@model Schedule
+<h4>@Model.Day</h4>
+
+<div>@Model.Name</div>
+<div>@Model.Time</div>
+
+<div>@Model.Artist.Name</div>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Go Back</a>

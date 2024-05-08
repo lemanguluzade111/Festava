@@ -1,4 +1,4 @@
-﻿let skip = 8;
+﻿let skip = 4;
 let artistsCount = $("#loadMore").next().val();
 $(document).on("click", "#loadMore", function () {
     $.ajax({
@@ -9,7 +9,7 @@ $(document).on("click", "#loadMore", function () {
         },
         success: function (res) {
             $("#myArtists").append(res)
-            skip += 8;
+            skip += 4;
 
             if (artistsCount <= skip) {
                 $("#loadMore").remove()

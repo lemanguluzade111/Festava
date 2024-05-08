@@ -11,11 +11,10 @@
                 <h2 class="mb-4">Meet Artists</h1>
             </div>
 
-
             @foreach (Artist artist in Model.Artists)
             {
 
-                <div class="col-lg-5 col-12" data-id="artist-@artist.Id">
+                <div class="col-lg-5 col-12" data-id="artist-@artist.Id" >
                     <div class="artists-thumb">
                         <div class="artists-image-wrap">
                             <img src="~/images/artists/@artist.Image"
@@ -48,14 +47,13 @@
                     </div>
                 </div>
             }
-
-           @* for Load More*@          
-@*  <div class="row" id="myArtists">
+          
+                 <div class="row" id="myArtists">
                 <div class="col-12 d-flex justify-content-center my-3">
                     <a id="loadMore" class="btn btn-dark text-white" style="width:130px">Load More</a>
                     <input type="hidden" value="@ViewBag.ArtistsCount" />
                 </div>
-            </div> *@
+            </div>
 
 
 

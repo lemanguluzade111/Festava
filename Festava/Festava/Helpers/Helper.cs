@@ -3,14 +3,14 @@ using System.Net;
 
 namespace Festava.Helpers
 {
-    public class Helper
+    public static class Helper
     {
         public static async Task SendMailAsync(string messageSubject, string messageBody, string mailTo)
         {
             SmtpClient client = new SmtpClient("smtp.yandex.com", 587);
             client.UseDefaultCredentials = false;
             client.EnableSsl = true;
-            client.Credentials = new NetworkCredential("laman.g@itbrains.edu.az", "qyyxjucxttnhqiaj");
+            client.Credentials = new NetworkCredential("laman.g@itbrains.edu.az", "icueyggljvmssjin");
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
             MailMessage message = new MailMessage("laman.g@itbrains.edu.az", mailTo);
             message.Subject = messageSubject;
@@ -21,6 +21,7 @@ namespace Festava.Helpers
             await client.SendMailAsync(message);
 
         }
+
 
     }
 }

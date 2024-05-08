@@ -21,7 +21,7 @@ namespace Festava.Controllers
             HomeVM homeVM = new HomeVM
             {
 
-                Artists = await _db.Artists.Where(x => !x.IsDeactive).OrderByDescending(x=>x.Id).Take(8).ToListAsync()
+                Artists = await _db.Artists.Where(x => !x.IsDeactive).OrderByDescending(x=>x.Id).Take(4).ToListAsync()
 
             };
 
@@ -31,7 +31,7 @@ namespace Festava.Controllers
         }
 
 
-
+        
         public async Task<IActionResult> LoadMore(int skipCount)
         {
             int count = await _db.Artists.Where(x => !x.IsDeactive).CountAsync();
@@ -39,7 +39,7 @@ namespace Festava.Controllers
             {
                 return Content("DO NOT EVEN TRY");
             }
-            List <Artist>artists = await _db.Artists.Where(x => !x.IsDeactive).OrderByDescending(x=>x.Id).Skip(skipCount).Take(8).ToListAsync();  
+            List <Artist>artists = await _db.Artists.Where(x => !x.IsDeactive).OrderByDescending(x=>x.Id).Skip(skipCount).Take(4).ToListAsync();  
             return PartialView("_LoadMoreArtistsPartial", artists);
         }
     }

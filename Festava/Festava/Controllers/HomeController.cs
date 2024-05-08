@@ -46,53 +46,94 @@ namespace Festava.Controllers
 
 
 
+        //public async Task<IActionResult> Subscribe(string email)
+
+        //{
+
+        //    if (email == null)
+
+        //    {
+        //      return Content("Email can not be null");
+        //    }
+
+        //    Regex regex = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
+
+        //    Match match = regex.Match(email);
+
+        //    if (!match.Success)
+
+        //    {
+        //        return Content("It is not an Email");
+        //    }
+
+        //    else
+        //        {
+        //       Subscribe subscribe = new Subscribe
+        //        {
+        //          Email = email,
+        //        };
+
+        //        bool isExist = await _db.Subscribes.AnyAsync(x => x.Email == email);
+
+        //        if (isExist)
+
+        //        {
+        //            return Content("Email already exists");
+        //        }
+
+        //        await _db.Subscribes.AddAsync(subscribe);
+
+        //        await _db.SaveChangesAsync();
+
+        //    }
+
+        //    return Content("Ok");
+
+        //}
+
+
         public async Task<IActionResult> Subscribe(string email)
-
         {
-
-            if (email == null)
-
+            if (string.IsNullOrEmpty(email))
             {
-              return Content("Email bos ola bilmez");
+                return Content("Email cannot be null or empty");
             }
 
-            Regex regex = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
-
-            Match match = regex.Match(email);
-
-            if (!match.Success)
-
+            if (!IsValidEmail(email))
             {
-                return Content("Email deyil");
+                return Content("Invalid email format");
             }
 
-            else
-                {
-               Subscribe subscribe = new Subscribe
-                {
-                  Email = email,
-                };
-
-                bool isExist = await _db.Subscribes.AnyAsync(x => x.Email == email);
-
-                if (isExist)
-
-                {
-                    return Content("Email artiq movcuddur");
-                }
-
-                await _db.Subscribes.AddAsync(subscribe);
-
-                await _db.SaveChangesAsync();
-
+            var existingSubscribe = await _db.Subscribes.FirstOrDefaultAsync(x => x.Email == email);
+            if (existingSubscribe != null)
+            {
+                return Content("Email already exists");
             }
 
-            return Content("Ok");
+            var subscribe = new Subscribe
+            {
+                Email = email
+            };
 
+            await _db.Subscribes.AddAsync(subscribe);
+            await _db.SaveChangesAsync();
+
+            return Content("Subscription successful");
         }
 
-
+        private bool IsValidEmail(string email)
+        {
+            try
+            {
+                var addr = new System.Net.Mail.MailAddress(email);
+                return addr.Address == email;
+            }
+            catch
+            {
+                return false;
+            }
+        }
 
     }
- }
+}
 

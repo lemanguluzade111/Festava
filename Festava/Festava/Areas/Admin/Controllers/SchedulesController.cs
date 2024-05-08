@@ -1,4 +1,5 @@
 ﻿using Festava.DAL;
+using Festava.Helpers;
 using Festava.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -36,14 +37,29 @@ namespace Festava.Areas.Admin.Controllers
         public async Task<IActionResult> Create(Schedule schedule, int artistId)
         {
             ViewBag.Artists = await _db.Artists.ToListAsync();
-            schedule.ArtistId= artistId;
+            schedule.ArtistId = artistId;
             await _db.Schedules.AddAsync(schedule);
             await _db.SaveChangesAsync();
+
+
+            // Retrieve the artist details
+            var artist = await _db.Artists.FindAsync(artistId);
+
+            // Compose email message
+            var message = $"New schedule created for {artist.Name} on {schedule.Day}.";
+            var subject = "New Schedule Notification";
+
+            // Send email to all subscribers
+            var subscribes = await _db.Subscribes.ToListAsync();
+            foreach (var sub in subscribes)
+            {
+                await Helper.SendMailAsync(subject, message, sub.Email);
+            }
+
             return RedirectToAction("Index");
         }
 
-
-        public async Task<IActionResult> Update(int? id)
+            public async Task<IActionResult> Update(int? id)
         {
 
             if (id == null)
@@ -85,5 +101,47 @@ namespace Festava.Areas.Admin.Controllers
 
             return RedirectToAction("Index");
         }
+
+
+
+        public async Task<IActionResult> Detail(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+            Schedule dbSchedule = await _db.Schedules.Include(x => x.Artist).FirstOrDefaultAsync(x => x.Id == id);
+            if (dbSchedule == null)
+            {
+                return BadRequest();
+            }
+            return View(dbSchedule);
+        }
+
+
+        public async Task<IActionResult> Activity(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+            Schedule dbSchedule = await _db.Schedules.FirstOrDefaultAsync(x => x.Id == id);
+            if (dbSchedule == null)
+            {
+                return BadRequest();
+            }
+            if (dbSchedule.IsDeactive)
+            {
+                dbSchedule.IsDeactive = false;
+            }
+            else
+            {
+                dbSchedule.IsDeactive = true;
+            }
+            await _db.SaveChangesAsync();
+            return RedirectToAction("Index");
+
+        }
+
     }
 }
