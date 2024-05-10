@@ -30,7 +30,7 @@ namespace Festava.Controllers
                 Titles = await _db.Titles.ToListAsync(),
                 About = await _db.Abouts.FirstOrDefaultAsync(),
                 Artists= await _db.Artists.Where(x => !x.IsDeactive).OrderByDescending(x => x.Id).Take(4).ToListAsync(),
-                Prices=await _db.Prices.ToListAsync(),
+                Prices=await _db.Prices.Take(2).ToListAsync(),
                 Schedules=await _db.Schedules.Include(x=>x.Artist).ToListAsync()
 
 

@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\areas\\admin\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\areas\\admin\\views\\subscribes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\subscribes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\areas\\admin\\controllers\\subscribescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\controllers\\subscribescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\areas\\admin\\views\\schedules\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\schedules\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\views\\subscribe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\views\\subscribe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\areas\\admin\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\areas\\admin\\views\\prices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\prices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\areas\\admin\\controllers\\pricescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\controllers\\pricescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|c:\\users\\kenan\\desktop\\festava\\festava\\festava\\areas\\admin\\views\\prices\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{057BD564-AD77-428B-99F5-54C63FED36D0}|Festava\\Festava.csproj|solutionrelative:festava\\areas\\admin\\views\\prices\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SchedulesController.cs",
-              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Controllers\\SchedulesController.cs",
-              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Controllers\\SchedulesController.cs",
-              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Controllers\\SchedulesController.cs",
-              "RelativeToolTip": "Festava\\Areas\\Admin\\Controllers\\SchedulesController.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAswG0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T08:43:20.786Z",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Prices\\Index.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Prices\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Prices\\Index.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Prices\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T07:34:14.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SchedulesController.cs",
-              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Controllers\\SchedulesController.cs",
-              "RelativeDocumentMoniker": "Festava\\Controllers\\SchedulesController.cs",
-              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Controllers\\SchedulesController.cs",
-              "RelativeToolTip": "Festava\\Controllers\\SchedulesController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA8wBYAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T08:43:02.295Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Schedules\\Index.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Schedules\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Schedules\\Index.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Schedules\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T07:30:04.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Views\\Schedules\\Index.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Views\\Schedules\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Views\\Schedules\\Index.cshtml",
+              "RelativeToolTip": "Festava\\Views\\Schedules\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T07:26:06.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Schedules\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Schedules\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Schedules\\Detail.cshtml",
-              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Schedules\\Detail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Views\\Subscribe\\Index.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Views\\Subscribe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Views\\Subscribe\\Index.cshtml",
+              "RelativeToolTip": "Festava\\Views\\Subscribe\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T08:40:43.651Z",
+              "WhenOpened": "2024-05-10T07:26:01.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Subscribes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Subscribes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Subscribes\\Index.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Subscribes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T07:21:16.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscribesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Controllers\\SubscribesController.cs",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Controllers\\SubscribesController.cs",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Controllers\\SubscribesController.cs",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Controllers\\SubscribesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:18:11.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PricesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Controllers\\PricesController.cs",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Controllers\\PricesController.cs",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Controllers\\PricesController.cs",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Controllers\\PricesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:19:51.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Prices\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Prices\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Prices\\Detail.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Prices\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T06:58:43.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Festava\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Kenan\\Desktop\\Festava\\Festava\\Festava\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Festava\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAKYAAAAAAAAAAAD4v7EAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T06:15:07.234Z",
               "EditorCaption": ""
             }
           ]

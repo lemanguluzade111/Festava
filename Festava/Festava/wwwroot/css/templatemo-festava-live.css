@@ -729,6 +729,7 @@ strong {
   border-radius: var(--border-radius-medium);
   position: relative;
   padding: 50px;
+  margin-bottom:15px;
 }
 
 .pricing-thumb h3 small {

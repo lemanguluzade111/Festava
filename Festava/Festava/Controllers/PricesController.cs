@@ -19,7 +19,7 @@ namespace Festava.Controllers
             HomeVM homeVM = new HomeVM
             {
 
-                Prices = await _db.Prices.ToListAsync()
+                Prices = await _db.Prices.Where(x => !x.IsDeactive).ToListAsync()
 
             };
 

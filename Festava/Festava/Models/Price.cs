@@ -9,5 +9,7 @@
         public string Discount { get; set; }
         public string Features { get; set; }
         public string Button { get; set; }
+        public bool IsDeactive { get; set; }
+
     }
 }

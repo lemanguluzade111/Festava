@@ -1,0 +1,26 @@
+﻿@model List<Subscribe>
+<!-- Bordered Table -->
+<div class="card">
+    <div class="card-header" style="display:flex; justify-content:space-between">
+        <h2>Subscribers</h2>       
+    </div>
+    <div class="card-body">
+        <div class="table-responsive text-nowrap">
+            <table class="table table-bordered">
+                <thead>
+                    <tr><th>Subscriber's Email</th></tr>
+                </thead>
+                <tbody>
+                    @foreach (Subscribe item in Model)
+                    {
+                        <tr>
+                            <td>
+                                <i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>@item.Email</strong>
+                            </td>                         
+                        </tr>
+                    }
+               </tbody>
+            </table>
+        </div>
+    </div>
+</div>
